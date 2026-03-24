@@ -7,10 +7,7 @@
       "source": "/",
       "destination": "/pixerli.framer.website/index.html"
     },
-    {
-      "source": "/index.html",
-      "destination": "/pixerli.framer.website/index.html"
-    },
+
     {
       "source": "/contact",
       "destination": "/pixerli.framer.website/contact.html"
