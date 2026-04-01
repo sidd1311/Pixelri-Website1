@@ -5,67 +5,67 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/pixerli.framer.website/index.html"
+      "destination": "/pixelri.framer.website/index.html"
     },
     {
       "source": "/index.html",
-      "destination": "/pixerli.framer.website/index.html"
+      "destination": "/pixelri.framer.website/index.html"
     },
     {
       "source": "/contact",
-      "destination": "/pixerli.framer.website/contact.html"
+      "destination": "/pixelri.framer.website/contact.html"
     },
     {
       "source": "/contact.html",
-      "destination": "/pixerli.framer.website/contact.html"
+      "destination": "/pixelri.framer.website/contact.html"
     },
     {
       "source": "/privacy-policy",
-      "destination": "/pixerli.framer.website/privacy-policy.html"
+      "destination": "/pixelri.framer.website/privacy-policy.html"
     },
     {
       "source": "/privacy-policy.html",
-      "destination": "/pixerli.framer.website/privacy-policy.html"
+      "destination": "/pixelri.framer.website/privacy-policy.html"
     },
     {
       "source": "/terms-of-service",
-      "destination": "/pixerli.framer.website/terms-of-service.html"
+      "destination": "/pixelri.framer.website/terms-of-service.html"
     },
     {
       "source": "/terms-of-service.html",
-      "destination": "/pixerli.framer.website/terms-of-service.html"
+      "destination": "/pixelri.framer.website/terms-of-service.html"
     },
     {
       "source": "/projects",
-      "destination": "/pixerli.framer.website/projects.html"
+      "destination": "/pixelri.framer.website/projects.html"
     },
     {
       "source": "/projects.html",
-      "destination": "/pixerli.framer.website/projects.html"
+      "destination": "/pixelri.framer.website/projects.html"
     },
     {
       "source": "/projects/vsi",
-      "destination": "/pixerli.framer.website/projects/vsi.html"
+      "destination": "/pixelri.framer.website/projects/vsi.html"
     },
     {
       "source": "/projects/vsi.html",
-      "destination": "/pixerli.framer.website/projects/vsi.html"
+      "destination": "/pixelri.framer.website/projects/vsi.html"
     },
     {
       "source": "/projects/vednix",
-      "destination": "/pixerli.framer.website/projects/vednix.html"
+      "destination": "/pixelri.framer.website/projects/vednix.html"
     },
     {
       "source": "/projects/vednix.html",
-      "destination": "/pixerli.framer.website/projects/vednix.html"
+      "destination": "/pixelri.framer.website/projects/vednix.html"
     },
     {
       "source": "/projects/oliveclear",
-      "destination": "/pixerli.framer.website/projects/oliveclear.html"
+      "destination": "/pixelri.framer.website/projects/oliveclear.html"
     },
     {
       "source": "/projects/oliveclear.html",
-      "destination": "/pixerli.framer.website/projects/oliveclear.html"
+      "destination": "/pixelri.framer.website/projects/oliveclear.html"
     }
   ]
 }
